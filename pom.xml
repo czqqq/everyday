@@ -7,6 +7,7 @@
         <module>kafka</module>
         <module>storm</module>
         <module>localdate</module>
+        <module>spark</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
