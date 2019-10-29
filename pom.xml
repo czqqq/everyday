@@ -9,6 +9,7 @@
         <module>localdate</module>
         <module>spark</module>
         <module>_0613</module>
+        <module>_1027</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
